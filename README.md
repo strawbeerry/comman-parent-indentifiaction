@@ -73,4 +73,4 @@ int main()
     getchar();
     return 0;
 }
-data structures are fun!
+//end of program
